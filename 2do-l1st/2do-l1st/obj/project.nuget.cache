@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "defHeiVU97k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VisualStudio\\source\\repos\\2do-l1st\\2do-l1st\\2do-l1st.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VisualStudio\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

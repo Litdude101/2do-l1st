@@ -1,0 +1,17 @@
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\bin\Debug\net8.0\2do-l1st.exe
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\bin\Debug\net8.0\2do-l1st.deps.json
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\bin\Debug\net8.0\2do-l1st.runtimeconfig.json
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\bin\Debug\net8.0\2do-l1st.dll
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\bin\Debug\net8.0\2do-l1st.pdb
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\2do-l1st.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\2do-l1st.AssemblyInfoInputs.cache
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\2do-l1st.AssemblyInfo.cs
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\2do-l1st.csproj.CoreCompileInputs.cache
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\2do-l1st.dll
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\refint\2do-l1st.dll
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\2do-l1st.pdb
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\2do-l1st.genruntimeconfig.cache
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\ref\2do-l1st.dll
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\2do-l1st.csproj.AssemblyReference.cache
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\obj\Debug\net8.0\2do-l1st.csproj.Up2Date
