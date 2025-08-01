@@ -1,2 +1,2 @@
 # 2do-l1st
-my first c# project, WIP.
+A to-do list! My first project.
