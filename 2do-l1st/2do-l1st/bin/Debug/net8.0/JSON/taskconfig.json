@@ -1,20 +1,12 @@
 {
   "Tasks": [
     {
-
-        "Name": "Welcome!, This is an example task.",
-        "Description": "Delete this task i guess, its just a placeholder",
-        "Status": "todo",
-        "CreatedAt": "6/25/2025",
-        "UpdatedAt": "6/25/2025",
-        "ID": "1",
-
-
-
-
+      "Name": "this is a placeholder. you can delete this.",
+      "Description": "idkbro",
+      "Status": "limbo",
+      "CreatedAt": "8/1/2025 7:06:52 AM",
+      "UpdatedAt": "8/1/2025 7:06:52 AM",
+      "ID": 1
     }
-
- 
-        
   ]
 }

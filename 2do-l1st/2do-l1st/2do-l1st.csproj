@@ -37,4 +37,10 @@
     <None Include="C:\Users\VisualStudio\source\repos\2do-l1st\2do-l1st\.editorconfig" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="JSON\taskconfig.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
